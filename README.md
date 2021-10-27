@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Helena
 - 👀 I’m interested in board games, syfy/fantasy books/television, video games, and home improvement projects.
-- 🌱 I’m currently learning more Javascript lol.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning vue.js
+- 📫 How to reach me: linkedIn: https://www.linkedin.com/in/helena-bliss/
 
 <!---
 hbliss2/hbliss2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
